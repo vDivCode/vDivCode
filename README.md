@@ -29,8 +29,17 @@
 ### 📈 Mis Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vDivCode&layout=compact&theme=tokyonight" alt="Lenguajes más usados" height="192px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vDivCode&layout=compact&theme=tokyonight&custom_title=Lenguajes+m%C3%A1s+usados" alt="Lenguajes más usados" height="192px"/>
 </p>
+
+---
+### 💼 Proyectos Destacados
+
+- 🍰 **Sugar Pastelería** - Página web moderna para un negocio de postres. 
+  <br> <a href="https://vdivcode.github.io/ProyectoFinal/"><img src="https://img.shields.io/badge/-Visitar_Sitio-success?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  
+- ☀️ **Hidrosolar** - Plataforma para cálculo e implementación de paneles solares. 
+  <br> <a href="https://mi-proyecto-web-bibx.onrender.com"><img src="https://img.shields.io/badge/-Ver_Proyecto-0078D4?style=for-the-badge&logo=github&logoColor=white"></a>
 
 ---
 
