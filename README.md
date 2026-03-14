@@ -1,5 +1,5 @@
 
-# ¡Hola, soy David Ventura Guzman! 👋
+# Hola, soy David Ventura Guzman
 
 <h3 align="center">Estudiante de Ingeniería de Sistemas e Informática</h3>
 
