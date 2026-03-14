@@ -26,13 +26,6 @@
 
 ---
 
-### 📈 Mis Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vDivCode&layout=compact&theme=tokyonight&custom_title=Lenguajes+m%C3%A1s+usados" alt="Lenguajes más usados" height="192px"/>
-</p>
-
----
 ### 💼 Proyectos Destacados
 
 - 🍰 **Sugar Pastelería** - Página web moderna para un negocio de postres. 
