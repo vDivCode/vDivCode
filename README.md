@@ -29,11 +29,14 @@
 ### 💼 Proyectos Destacados
 
 - 🍰 **Sugar Pastelería** - Página web moderna para un negocio de postres. 
-  <br> <a href="https://vdivcode.github.io/ProyectoFinal/"><img src="https://img.shields.io/badge/-Visitar_Sitio-success?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <br> <a href="https://vdivcode.github.io/ProyectoFinal/"><img src="https://img.shields.io/badge/-Visitar_Sitio-success?style=for-the-badge&logo=github&logoColor=white"></a>
   
 - ☀️ **Hidrosolar** - Plataforma para cálculo e implementación de paneles solares. 
-  <br> <a href="https://mi-proyecto-web-bibx.onrender.com"><img src="https://img.shields.io/badge/-Ver_Proyecto-0078D4?style=for-the-badge&logo=github&logoColor=white"></a>
-
+  <br> <a href="https://mi-proyecto-web-bibx.onrender.com"><img src="https://img.shields.io/badge/-Visitar_Sitio-0078D4?style=for-the-badge&logo=github&logoColor=white"></a>
+  
+- ☀️ **Hidrosolar Calculadora** - Calculadora para Panales Solares y Dashboard. 
+  <br> <a href="calculadora-panel-solar.vercel.app"><img src="https://img.shields.io/badge/-Visitar_Sitio-0078D4?style=for-the-badge&logo=github&logoColor=white"></a>
+  
 ---
 
 ### 🤝 Redes
