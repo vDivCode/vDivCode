@@ -35,7 +35,7 @@
   <br> <a href="https://mi-proyecto-web-bibx.onrender.com"><img src="https://img.shields.io/badge/-Visitar_Sitio-0078D4?style=for-the-badge&logo=github&logoColor=white"></a>
   
 - ☀️ **Hidrosolar Calculadora** - Calculadora para Panales Solares y Dashboard. 
-  <br> <a href="calculadora-panel-solar.vercel.app"><img src="https://img.shields.io/badge/-Visitar_Sitio-0078D4?style=for-the-badge&logo=github&logoColor=white"></a>
+  <br> <a href="calculadora-panel-solar.vercel.app/login"><img src="https://img.shields.io/badge/-Visitar_Sitio-0078D4?style=for-the-badge&logo=github&logoColor=white"></a>
   
 ---
 
