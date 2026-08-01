@@ -36,7 +36,10 @@
   
 - ☀️ **Hidrosolar Calculadora** - Calculadora para Panales Solares y Dashboard. 
   <br> <a href="https://calculadora-panel-solar.vercel.app/login"><img src="https://img.shields.io/badge/-Visitar_Sitio-0078D4?style=for-the-badge&logo=github&logoColor=white"></a>
-  
+
+- 📓 **Brújula Vocacional** - Un test vocacional con paradigmas. 
+  <br> <a href="https://testvocacional.integratify.io/"><img src="https://img.shields.io/badge/-Visitar_Sitio-0078D4?style=for-the-badge&logo=github&logoColor=white"></a>
+
 ---
 
 ### 🤝 Redes
