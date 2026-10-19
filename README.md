@@ -15,7 +15,6 @@
 - 🤖 Me enfoco en **integrar IA en aplicaciones reales** con el **Model Context Protocol (MCP)**.
 - 🌱 Profundizando en backend, APIs REST, bases de datos y despliegue en la nube.
 - 👯 Abierto a prácticas preprofesionales y a colaborar en proyectos.
-- 📬 Escríbeme por [LinkedIn](https://www.linkedin.com/in/david-ventura-guzman-821a54289/) o mira mi [portafolio](https://vdivcode.github.io/portafolio/).
 
 ---
 
@@ -35,10 +34,6 @@ Todos mis proyectos —con demos en vivo y enlaces al código— están en mi po
   <a href="https://vdivcode.github.io/portafolio/" target="_blank">
     <img src="https://img.shields.io/badge/-Ver_mi_Portafolio-bb6a16?style=for-the-badge&logoColor=white">
   </a>
-</p>
-
-<p align="center">
-  🔗 <a href="https://vdivcode.github.io/portafolio/">vdivcode.github.io/portafolio</a>
 </p>
 
 ---
