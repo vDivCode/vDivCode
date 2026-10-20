@@ -1,4 +1,10 @@
 
+<h3 align="center">Estudiante de Ingeniería de Sistemas e Informática</h3>
+## Hi there 👋
+# ¡Hola, soy David Ventura Guzman! 👋
+
+<h3 align="center">Estudiante de Ingeniería de Sistemas e Informática apasionado por el desarrollo de software.</h3>
+
 # Hola, soy David Ventura Guzman
 
 <h3 align="center">Estudiante de Ingeniería de Sistemas e Informática</h3>
@@ -31,15 +37,16 @@
 Todos mis proyectos —con demos en vivo y enlaces al código— están en mi portafolio:
 
 <p align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vDivCode&layout=compact&theme=tokyonight" alt="Lenguajes más usados" height="192px"/>
   <a href="https://vdivcode.github.io/portafolio/" target="_blank">
     <img src="https://img.shields.io/badge/-Ver_mi_Portafolio-bb6a16?style=for-the-badge&logoColor=white">
   </a>
 </p>
 
 ---
-
+=======
 ### 🤝 Redes
-
 <p align="center">
 <a href="https://www.linkedin.com/in/david-ventura-guzman-821a54289/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
