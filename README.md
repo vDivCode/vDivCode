@@ -10,11 +10,9 @@
 
 ## Tecnologías y herramientas
 
-| Área | Tecnologías |
-| --- | --- |
-| Backend | Java · Spring Boot · Node.js |
-| Frontend | TypeScript · Vue · Next.js · Tailwind CSS |
-| Base de datos y control de versiones | MySQL · Git |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,ts,vue,nextjs,nodejs,tailwind,mysql,git" alt="Java, Spring Boot, TypeScript, Vue, Next.js, Node.js, Tailwind CSS, MySQL y Git" />
+</p>
 
 ## Portafolio
 
