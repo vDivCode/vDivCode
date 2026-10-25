@@ -23,7 +23,7 @@
 Explora mis proyectos, demos en vivo y código:
 
 <p align="center">
-  <a href="https://vdivcode.github.io/portafolio/"><img src="https://img.shields.io/badge/-Ver_mi_Portafolio-bb6a16?style=for-the-badge&logoColor=white" alt="Ver mi portafolio" /></a>
+  <a href="https://portafolio.integratify.io"><img src="https://img.shields.io/badge/-Ver_mi_Portafolio-bb6a16?style=for-the-badge&logoColor=white" alt="Ver mi portafolio" /></a>
 </p>
 
 ## Conectemos
